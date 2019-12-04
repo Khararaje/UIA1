@@ -3,3 +3,16 @@ Patch v 1.00
 	- First Person Camera X-Axis rotation fix
 	- Animation Starter Pack added
 	-Kharajae
+	
+Patch v 1.01
+	- First Person Hud
+		- Armor and Health bar added
+	- Swat Mesh import
+	- Major Asset Import
+		- "FPSAsset"
+	- Set up swat animation walk/run
+	- Create conditions for animation play
+	- Chance defualt character to Swat Character
+	- Adjust character scale size
+	- Reposition camera 
+	
