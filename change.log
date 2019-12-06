@@ -16,3 +16,58 @@ Patch v 1.01
 	- Adjust character scale size
 	- Reposition camera 
 	
+Patch v 1.02 12/4
+	- AK47 Asset Added
+	- AK47 Textured
+	- Binded AK47 to First Person  
+	- Positioned AK with first person character
+	- Spawn Weapon 'Test' into game
+	- Adjust editor clipping
+	
+Patch v 1.03 12/5
+	- Added Capo Island terrain
+	- reposistioned stadium
+	- Sulpted terrain
+		- Made hills and paths the layer can walk/run on
+	- Added shapes for placement of buildings
+	-
+	g 420300.0 r 532430.25 b -33039.71875
+	
+Patch v 1.04 12/6
+	- Added More detail to shapes
+	- Added more detail and pathes to the terain
+	-
+	
+	Ideas:
+	have missle site in game
+	have text appear like army movies
+	actually record audio
+	for cutscene
+	
+	STORYLINE PSEUDO:
+	-Premase:
+		- Swat member sent into North Korea on overt mission
+			- my squad was choosen at complete random beceause after russian intervienved in the 20??
+			election, they sold the U.S information to china, including the militaries soilder list and strategic plans,
+			to support them in their battles against the United states.
+			- My platoons goals are to intercept the nuclear missle testing plans and to stop the initial test launch before the missile
+			is released from the "missle holding compartment" and reaches its destination for this will only result in assurance to china
+			that they can further be a threat to the U.S and the world.
+			- durning the mission things went wrong, they found out we were behind their army's line
+			and the missle test was started me and the platoon managed to break thru china's defences
+			and stop the missle from acheiving lauch status, however the missle was left suspended above its hangar in the ground
+			Rob and Cole stayed behind to disarm the missle while me and Kozy left to defend them against incoming chinamen
+			while defending our position Kozy was shot in the stomach and we had to evacuate. I radio'ed the situation in to 
+			and the missle exlpoded on the ground
+	-CutScene
+		-START:
+		Location: safe house North Korea
+		time: day
+		content: running out of food!
+			i have to get to ".." (safe city - across mountain)
+			or else..
+			
+	-EndScene
+		-START:
+		Location Leaving safe house
+		Time: night
