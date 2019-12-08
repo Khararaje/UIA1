@@ -30,13 +30,94 @@ Patch v 1.03 12/5
 	- Sulpted terrain
 		- Made hills and paths the layer can walk/run on
 	- Added shapes for placement of buildings
-	-
-	g 420300.0 r 532430.25 b -33039.71875
+	
+	
 	
 Patch v 1.04 12/6
 	- Added More detail to shapes
 	- Added more detail and pathes to the terain
-	-
+	
+Patch v 1.05 12/6-7
+	- Created generic material for terrain
+	- applied main ground texture and textures for mountain and grass
+	- Added Ground forest asset 
+	- Added wildGrass asset
+	- created Take damage (5%) function
+	- Called Take damage to the character
+	- Create blood splash effect when damaged
+	- Added blood splash image
+	- Created projectile
+	- Added socket to AK47 Skeletal mesh
+	- Created transform for location projectile spawns
+	- Adjusted rotation of transform  (bullet flying left)
+	- Increased Projectile speed from 3500 to 13000
+	- Set up magazine size
+	- output ammo capacity to screen
+	- Created a ADS camera
+	- Created SkeletalMesh
+	- Applied AK material to Skeletal mesh
+	- added second camera to veiwport
+	- Adjusted secondary camera (ADS)
+	- Reduced walk speed while ADS
+	- Altered AK material
+	
+Patch 1.08
+	- Set up reload system (math off)
+	- Fixed reload system
+	- changed reload system to conservative ammo system
+	- Added sprint functionality 
+	- Added sprint animation
+	- Added Reload animation
+	- Stop Bug: Shoot while reloading
+	- reposistion ADS camera
+	- Material applied to bullet base
+	- Changed bullet base static mesh
+	- adjust size of bullet base
+	- Adjust speed of bullet projectiles
+	- ammo pickup functionality
+	- savage imported
+	- AI character savage created
+	- animations imported
+		- Savage run
+	- idle animation applied to savage
+	- increased savage scale
+	- rotated savage blueprint
+	- added savage health varaiable
+	- added savage take damage functionality
+	- smoothed terrain for AI accessibility 
+	- added pawn sensing to Savage
+	- rotated savage
+	- added savage_walk animation
+	- add savage "movement_bs"
+	- mapped animations in blend space 1D
+	- aim while running bug fix
+	- revamp character spine to allow smoother mechanics
+	- Created savage patrol
+	- increased savage patrol range
+	- added weapon fire audio
+	- smoothed gun movement
+	- Added dynamic crosshair
+	- killfeed blueprint started
+		-Break :)
+	
+	* crouching
+	* Ai Ragdoll physics #48
+	* muzzle flash particle system
+	* Make ai that shoots
+	* Make ai that hit meele # 49
+	* Terrain #53
+	* Missles
+	* Add M4A1 #36
+		** if time try to add 3rd weapon no tutorial
+		** Weapon Pickup #37
+	* cutscene
+	* GDD
+	* MiniMap #33
+	* Hitmarker #35
+	* Day Night
+	*safe House
+	* cenematic audio
+	
 	
 	Ideas:
 	have missle site in game
@@ -71,3 +152,12 @@ Patch v 1.04 12/6
 		-START:
 		Location Leaving safe house
 		Time: night
+		
+		 git lfs track 'Khararaje/UIA1'
+		
+		world location 
+		g 420300.0 r 532430.25 b -33039.71875
+		
+		README:
+		- Open up the levels window under .. and load in "" so that the terrain is available for you experience
+		
