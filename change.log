@@ -99,25 +99,50 @@ Patch 1.08
 	- Added dynamic crosshair
 	- killfeed blueprint started
 		-Break :)
+	/\-all last push (switch to git lsf)
 	
-	* crouching
+	Patch 1.09
+	- Recontructed safe house
+	- added string variable to character
+	- displayed objective text to hud
+	- added objective tag 
+	- binded objective text
+	- changed objective tag color and font weight
+	- Content Browser maintenance
+	- Bullet spawn position tweaked
+	- Ak hand placement adustment
+	- Hand adjustment
+	- Ads Camera position and rotation adjustment
+	- Hud icons imported
+	- Hud styled
+	- ammo display font size adjustment
+	- fixed armor progress display
+	- binded health and armor text to character variables
+	- Created killfeed widget
+	- styled text
+	- Set up Killfeed animation
+	- add killfeed animation to view
+	- anchored killfeed items top-right
+	- Added mini map component to third person character
+	- adjusted position and rotation
+	- Added Top-Down Mini map to hud
+	- Added hit marker
+	
+	* cutscene (* cenematic audio) * GDD
+	* get terrain to load automatically
+	* Terrain #53 *safe House
+	* Missles
 	* Ai Ragdoll physics #48
 	* muzzle flash particle system
-	* Make ai that shoots
 	* Make ai that hit meele # 49
-	* Terrain #53
-	* Missles
+	* Day Night
+	* Make ai that shoots
+	* crouching
+	* weapon switching
 	* Add M4A1 #36
 		** if time try to add 3rd weapon no tutorial
 		** Weapon Pickup #37
-	* cutscene
-	* GDD
-	* MiniMap #33
-	* Hitmarker #35
-	* Day Night
-	*safe House
-	* cenematic audio
-	
+
 	
 	Ideas:
 	have missle site in game
