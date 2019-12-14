@@ -1,0 +1,1029 @@
+﻿Log file open, 12/13/19 09:22:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UIA1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.232259
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=Kp_ThaSavage11 -epicuserid=514cbe2c9985486d9f9c6b3a1f0e45b2 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.13-14.22.56:764][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.13-14.22.56:764][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.13-14.22.56:764][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.56:764][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.13-14.22.56:764][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.56:765][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.13-14.22.56:765][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.13-14.22.56:766][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.13-14.22.56:766][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.13-14.22.56:766][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.13-14.22.56:766][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.13-14.22.56:766][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.13-14.22.56:766][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.13-14.22.56:766][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.56:766][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.56:773][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:773][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.13-14.22.56:773][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.13-14.22.56:773][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:773][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.13-14.22.56:773][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:773][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.13-14.22.56:774][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.13-14.22.56:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.13-14.22.56:776][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.13-14.22.56:777][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.13-14.22.56:778][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.13-14.22.56:779][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.13-14.22.56:779][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.13-14.22.56:779][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.13-14.22.56:789][  0]LogHAL: Display: Platform has ~ 8 GB [8439427072 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.13-14.22.56:789][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.13-14.22.56:789][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:789][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.13-14.22.56:789][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.13-14.22.56:789][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:789][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.13-14.22.56:789][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.13-14.22.56:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.13-14.22.56:791][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.13-14.22.56:792][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Scalability.ini]
+[2019.12.13-14.22.56:792][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.13-14.22.56:793][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.13-14.22.56:793][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.13-14.22.56:793][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.13-14.22.56:793][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.13-14.22.56:793][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Config/Windows/Engine.ini]
+[2019.12.13-14.22.56:794][  0]LogInit: Computer: LAPTOP-HVFHQ4RO
+[2019.12.13-14.22.56:794][  0]LogInit: User: Kapisce
+[2019.12.13-14.22.56:794][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.13-14.22.56:794][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.13-14.22.56:794][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.12.13-14.22.56:794][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.13-14.22.56:794][  0]LogMemory: Process Physical Memory: 104.28 MB used, 104.28 MB peak
+[2019.12.13-14.22.56:794][  0]LogMemory: Process Virtual Memory: 88.72 MB used, 88.72 MB peak
+[2019.12.13-14.22.56:794][  0]LogMemory: Physical Memory: 6083.69 MB used,  1964.78 MB free, 8048.46 MB total
+[2019.12.13-14.22.56:794][  0]LogMemory: Virtual Memory: 4657.86 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.13-14.22.56:805][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.13-14.22.56:866][  0]LogInit: Using OS detected language (en-US).
+[2019.12.13-14.22.56:867][  0]LogInit: Using OS detected locale (en-US).
+[2019.12.13-14.22.56:867][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.13-14.22.57:249][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.13-14.22.57:357][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.13-14.22.57:357][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.13-14.22.58:058][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.13-14.22.58:059][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.13-14.22.58:260][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.12.13-14.22.58:260][  0]LogD3D11RHI:       4021/0/4024 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.13-14.22.58:307][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.13-14.22.58:307][  0]LogD3D11RHI:       128/0/4024 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.13-14.22.58:318][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.13-14.22.58:318][  0]LogD3D11RHI:       0/0/4024 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.13-14.22.58:318][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.13-14.22.58:416][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.13-14.22.58:416][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.12.13-14.22.58:416][  0]LogWindows: EnumDisplayDevices:
+[2019.12.13-14.22.58:417][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.13-14.22.58:418][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.13-14.22.58:418][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.13-14.22.58:419][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.13-14.22.58:419][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.12.13-14.22.58:419][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.13-14.22.58:419][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.13-14.22.58:419][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.12.13-14.22.58:556][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.13-14.22.58:686][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.13-14.22.59:468][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.13-14.22.59:479][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.13-14.22.59:491][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.13-14.22.59:499][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.13-14.22.59:508][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.13-14.22.59:518][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.13-14.22.59:527][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.13-14.22.59:538][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.13-14.22.59:548][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.13-14.22.59:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.13-14.22.59:624][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.13-14.22.59:625][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.13-14.22.59:630][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.13-14.22.59:671][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.13-14.22.59:671][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.13-14.22.59:697][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.13-14.22.59:697][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.13-14.22.59:710][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.13-14.22.59:732][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.13-14.22.59:755][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.13-14.22.59:780][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.13-14.22.59:850][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.13-14.22.59:850][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.13-14.22.59:850][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.13-14.22.59:879][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.13-14.23.00:064][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Intermediate/Shaders/WorkingDirectory/12796/).
+[2019.12.13-14.23.00:065][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kapisce/AppData/Local/Temp/UnrealShaderWorkingDir/55837D6C49DA793D7657108A0DC0DFE0/'.
+[2019.12.13-14.23.00:074][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.13-14.23.00:075][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.13-14.23.00:075][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.13-14.23.01:909][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.13-14.23.02:039][  0]LogDerivedDataCache: Loaded boot cache 0.13s 73MB C:/Users/Kapisce/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.13-14.23.02:040][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kapisce/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.13-14.23.02:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.13-14.23.02:040][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.13-14.23.02:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.13-14.23.02:041][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.13-14.23.02:075][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.13-14.23.02:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.13-14.23.02:075][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.13-14.23.02:078][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kapisce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.13-14.23.02:078][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.13-14.23.02:078][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.13-14.23.02:157][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.13-14.23.02:164][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.13-14.23.02:166][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.13-14.23.02:346][  0]LogAssetRegistry: FAssetRegistry took 0.0075 seconds to start up
+[2019.12.13-14.23.02:944][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.13-14.23.03:408][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.13-14.23.03:408][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.13-14.23.03:408][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.13-14.23.03:408][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.13-14.23.03:408][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.13-14.23.03:437][  0]LogNetVersion: UIA1 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 556665032)
+[2019.12.13-14.23.04:914][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.194294 seconds
+[2019.12.13-14.23.04:932][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.13-14.23.04:932][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.13-14.23.04:932][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.13-14.23.07:568][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.13-14.23.07:577][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.13-14.23.07:793][  0]SourceControl: Source control is disabled
+[2019.12.13-14.23.07:793][  0]SourceControl: Source control is disabled
+[2019.12.13-14.23.07:798][  0]SourceControl: Source control is disabled
+[2019.12.13-14.23.07:801][  0]SourceControl: Source control is disabled
+[2019.12.13-14.23.08:087][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.13-14.23.08:441][  0]LogOcInput: OculusInput pre-init called
+[2019.12.13-14.23.08:466][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.13-14.23.08:467][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.13-14.23.08:696][  0]LogEngine: Initializing Engine...
+[2019.12.13-14.23.08:698][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.13-14.23.08:702][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.13-14.23.09:407][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.13-14.23.09:470][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.13-14.23.09:665][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-14.23.09:758][  0]LogInit: FAudioDevice initialized.
+[2019.12.13-14.23.09:758][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.13-14.23.09:973][  0]LogDerivedDataCache: Saved boot cache 0.22s 73MB C:/Users/Kapisce/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.13-14.23.09:995][  0]LogInit: Texture streaming: Enabled
+[2019.12.13-14.23.10:063][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.13-14.23.10:498][  0]LogInit: Transaction tracking system initialized
+[2019.12.13-14.23.10:554][  0]BlueprintLog: New page: Editor Load
+[2019.12.13-14.23.10:736][  0]LocalizationService: Localization service is disabled
+[2019.12.13-14.23.11:522][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.13-14.23.11:522][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.13-14.23.11:786][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/' took 0.13s
+[2019.12.13-14.23.11:786][  0]SourceControl: Source control is disabled
+[2019.12.13-14.23.11:786][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.13-14.23.11:786][  0]LightingResults: New page: Lighting Build
+[2019.12.13-14.23.11:789][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.23.11:790][  0]MapCheck: New page: Map Check
+[2019.12.13-14.23.11:790][  0]LightingResults: New page: Lighting Build
+[2019.12.13-14.23.12:331][  0]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2019.12.13-14.23.31:422][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-14.23.31:814][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.13-14.23.31:882][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2019.12.13-14.23.31:882][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.13-14.23.31:883][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.264ms to complete.
+[2019.12.13-14.23.31:883][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 20.096
+[2019.12.13-14.23.32:528][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.32:557][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.32:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.32:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.23.32:710][  0]LogCollectionManager: Loaded 0 collections in 0.005154 seconds
+[2019.12.13-14.23.32:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Collections/' took 0.00s
+[2019.12.13-14.23.32:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/Developers/Kapisce/Collections/' took 0.00s
+[2019.12.13-14.23.32:840][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/Collections/' took 0.00s
+[2019.12.13-14.23.32:840][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2019.12.13-14.23.32:866][  0]LogContentBrowser: Native class hierarchy populated in 0.0204 seconds. Added 2863 classes and 680 folders.
+[2019.12.13-14.23.32:976][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.13-14.23.35:101][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2019.12.13-14.23.35:212][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.12.13-14.23.36:572][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.12.13-14.23.36:653][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.13-14.23.36:658][  0]LogSlate: Took 0.000416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.13-14.23.36:689][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.13-14.23.36:689][  0]LogLoad: (Engine Initialization) Total time: 44.56 seconds
+[2019.12.13-14.23.36:689][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.13-14.23.36:926][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.13-14.23.37:005][  0]LogSlate: Took 0.063940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.13-14.23.37:697][  1]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.12.13-14.23.37:697][  1]LogRenderer: Reallocating scene render targets to support 804x376 Format 10 NumSamples 1 (Frame:1).
+[2019.12.13-14.23.38:511][  2]LogSlate: Took 0.047842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.13-14.23.39:529][ 13]LogAssetRegistry: Asset discovery search completed in 37.1856 seconds
+[2019.12.13-14.23.39:538][ 13]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2019.12.13-14.23.39:538][ 13]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000120 seconds (updated 0 objects)
+[2019.12.13-14.23.41:005][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-14.24.26:811][456]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.Weapon_M4A1
+[2019.12.13-14.24.28:727][456]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 121 classes and 0 folders.
+[2019.12.13-14.24.33:957][456]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_silencer001_Skeleton.M4A1_silencer001_Skeleton
+[2019.12.13-14.24.34:083][456]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.12.13-14.24.47:998][456]LogSlate: Window 'Message' being destroyed
+[2019.12.13-14.24.48:050][456]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.12.13-14.24.51:026][456]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base
+[2019.12.13-14.24.51:842][456]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/M4A1Pickup.M4A1Pickup
+[2019.12.13-14.24.54:146][456]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK.AK
+[2019.12.13-14.24.54:239][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.24.54:349][456]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.13-14.24.54:931][456]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/M4A1PickUp.M4A1PickUp
+[2019.12.13-14.24.55:928][456]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.13-14.24.59:514][456]LogSlate: Took 0.034640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.13-14.25.01:215][457]LogSlate: Took 0.091443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.13-14.25.23:604][902]LogRenderer: Reallocating scene render targets to support 804x408 Format 10 NumSamples 1 (Frame:199).
+[2019.12.13-14.25.23:707][902]LogRenderer: Reallocating scene render targets to support 804x468 Format 10 NumSamples 1 (Frame:200).
+[2019.12.13-14.25.23:813][902]LogRenderer: Reallocating scene render targets to support 804x508 Format 10 NumSamples 1 (Frame:201).
+[2019.12.13-14.25.23:918][902]LogRenderer: Reallocating scene render targets to support 804x536 Format 10 NumSamples 1 (Frame:202).
+[2019.12.13-14.25.24:029][902]LogRenderer: Reallocating scene render targets to support 804x576 Format 10 NumSamples 1 (Frame:203).
+[2019.12.13-14.25.24:124][902]LogRenderer: Reallocating scene render targets to support 804x580 Format 10 NumSamples 1 (Frame:204).
+[2019.12.13-14.25.32:673][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.25.32:675][ 23]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.13-14.25.45:605][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.25.55:507][478]Cmd: TRANSACTION UNDO
+[2019.12.13-14.25.55:508][478]LogEditorTransaction: Undo Rotate Socket
+[2019.12.13-14.25.56:008][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.25.56:142][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.26.18:325][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.26.32:136][235]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/M4A1_silencer001_Skeleton34F046E84E6394D51F4C0D8A5BAE5611.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_silencer001_Skeleton.uasset'
+[2019.12.13-14.26.34:344][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.26.35:222][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.26.36:720][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.27.03:239][ 38]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\Kapisce\Downloads\Up'nArms.mp3)
+[2019.12.13-14.28.10:718][407]LogRenderer: Reallocating scene render targets to support 972x580 Format 10 NumSamples 1 (Frame:3749).
+[2019.12.13-14.28.13:030][493]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-14.28.13:191][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.28.13:191][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.28.13:191][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.28.13:191][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.28.13:191][493]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.28.13:194][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-14.28.13:263][493]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 13, 2019, 4:28:13 AM)
+[2019.12.13-14.28.13:283][493]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.13-14.28.13:295][493]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-14.28.13:432][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136032s)
+[2019.12.13-14.28.13:436][493]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-14.28.13:452][493]LogPlayLevel: PIE: World Init took: (0.020810s)
+[2019.12.13-14.28.13:452][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.157882s)
+[2019.12.13-14.28.13:770][493]LogUObjectHash: Compacting FUObjectHashTables data took  21.53ms
+[2019.12.13-14.28.13:826][493]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-14.28.13:939][493]LogInit: FAudioDevice initialized.
+[2019.12.13-14.28.13:978][493]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-14.28.13:989][493]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.13-09.28.13
+[2019.12.13-14.28.14:112][493]LogWorld: Bringing up level for play took: 0.131886
+[2019.12.13-14.28.14:139][493]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.13-14.28.14:325][493]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.12.13-14.28.18:127][493]LogStreaming: Display: Flushing async loaders.
+[2019.12.13-14.28.19:873][493]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2019.12.13-14.28.19:907][493]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 6.688
+[2019.12.13-14.28.19:908][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.28.19:908][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.28.19:908][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.28.19:908][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.28.19:908][493]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.28.27:734][731]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-14.28.28:242][748]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-14.28.28:972][773]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-14.28.32:352][856]LogBlueprintUserMessages: [M4A1PickUp_2] M4A1 Picked Up
+[2019.12.13-14.28.42:052][186]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1
+	Weapon_base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base_C:Reload:024C
+[2019.12.13-14.28.42:053][186]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.12.13-14.28.45:252][295]LogBlueprintUserMessages: [Weapon_base_C_0] Full Ammo
+[2019.12.13-14.28.45:924][315]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1
+	Weapon_base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base_C:Reload:024C
+[2019.12.13-14.28.45:925][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.12.13-14.28.49:939][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.28.49:940][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.28.49:940][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.28.49:940][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.28.49:940][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.28.50:043][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.28.50:044][455]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-14.28.50:048][455]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.28.50:136][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-14.28.50:136][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.28.50:137][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.28.50:137][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.28.50:137][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.28.50:137][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.28.50:325][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.28.50:553][455]LogUObjectHash: Compacting FUObjectHashTables data took  20.73ms
+[2019.12.13-14.28.50:583][455]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-14.28.50:814][456]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.13-14.28.51:059][456]LogUObjectHash: Compacting FUObjectHashTables data took  13.07ms
+[2019.12.13-14.28.54:287][543]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-14.28.54:333][543]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-14.29.01:359][679]LogRenderer: Reallocating scene render targets to support 972x672 Format 10 NumSamples 1 (Frame:1881).
+[2019.12.13-14.29.29:395][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-14.29.29:480][246]BlueprintLog: New page: Compile M4A1PickUp
+[2019.12.13-14.29.30:991][246]LogUObjectHash: Compacting FUObjectHashTables data took  12.20ms
+[2019.12.13-14.29.31:949][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/M4A1PickUp" FILE="../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/M4A1PickUp.uasset" SILENT=true
+[2019.12.13-14.29.32:134][257]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/M4A1PickUpF93802DF436C707F3C21C5BBBFCEC888.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/M4A1PickUp.uasset'
+[2019.12.13-14.29.34:613][325]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-14.29.34:717][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.29.34:717][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.29.34:718][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.29.34:718][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.29.34:718][325]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.29.34:718][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-14.29.34:718][325]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 13, 2019, 4:29:34 AM)
+[2019.12.13-14.29.34:718][325]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-14.29.34:809][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090340s)
+[2019.12.13-14.29.34:813][325]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-14.29.34:813][325]LogPlayLevel: PIE: World Init took: (0.004128s)
+[2019.12.13-14.29.34:814][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.095062s)
+[2019.12.13-14.29.35:023][325]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2019.12.13-14.29.35:033][325]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-14.29.35:111][325]LogInit: FAudioDevice initialized.
+[2019.12.13-14.29.35:124][325]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-14.29.35:133][325]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.12.13-09.29.35
+[2019.12.13-14.29.35:135][325]LogWorld: Bringing up level for play took: 0.008651
+[2019.12.13-14.29.35:136][325]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.13-14.29.37:173][325]LogStreaming: Display: Flushing async loaders.
+[2019.12.13-14.29.37:488][325]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2019.12.13-14.29.37:489][325]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.27
+[2019.12.13-14.29.37:490][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.29.37:490][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.29.37:490][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.29.37:490][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.29.37:490][325]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.29.40:761][445]LogBlueprintUserMessages: [M4A1PickUp_2] M4A1 Picked Up
+[2019.12.13-14.29.41:127][458]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-14.29.43:101][527]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-14.29.43:387][537]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1
+	Weapon_base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base_C:Reload:024C
+[2019.12.13-14.29.43:388][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.12.13-14.29.46:399][642]LogBlueprintUserMessages: [Weapon_base_C_0] Full Ammo
+[2019.12.13-14.29.47:201][670]LogBlueprintUserMessages: [Weapon_base_C_0] Full Ammo
+[2019.12.13-14.29.48:017][699]LogBlueprintUserMessages: [Weapon_base_C_0] Full Ammo
+[2019.12.13-14.29.49:068][736]LogBlueprintUserMessages: [Weapon_base_C_0] Full Ammo
+[2019.12.13-14.29.49:827][763]LogBlueprintUserMessages: [Weapon_base_C_0] Full Ammo
+[2019.12.13-14.29.51:136][809]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1
+	Weapon_base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base_C:Reload:024C
+[2019.12.13-14.29.51:136][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.12.13-14.29.54:263][914]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1
+	Weapon_base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base_C:Reload:024C
+[2019.12.13-14.29.54:263][914]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.12.13-14.29.56:956][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.29.56:957][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.29.56:957][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.29.56:957][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.29.56:957][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.29.56:959][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.29.56:959][  8]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-14.29.56:965][  8]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-14.29.57:097][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-14.29.57:098][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-14.29.57:098][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-14.29.57:098][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-14.29.57:098][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-14.29.57:099][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-14.29.57:272][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-14.29.57:349][  8]LogUObjectHash: Compacting FUObjectHashTables data took  14.18ms
+[2019.12.13-14.29.57:374][  8]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-14.29.57:609][  9]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.13-14.29.57:787][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.13-14.29.59:128][ 43]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-14.29.59:174][ 43]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-14.30.14:799][335]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_Skeleton.AK_Skeleton
+[2019.12.13-14.30.14:856][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.30.14:990][335]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.13-14.30.28:123][624]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1.M4A1_silencer001
+[2019.12.13-14.30.33:113][624]LogSlate: Window 'Message' being destroyed
+[2019.12.13-14.30.39:837][754]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_silencer001_PhysicsAsset.M4A1_silencer001_PhysicsAsset
+[2019.12.13-14.30.40:118][754]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0008 seconds. Added 7 classes and 3 folders.
+[2019.12.13-14.30.47:579][754]LogSlate: Window 'Message' being destroyed
+[2019.12.13-14.30.47:584][754]LoadErrors: Error: The Skeleton  M4A1_silencer001_Skeleton is missing bones that SkeletalMesh  M4A1_silencer001 needs. They will be added now. Please save the Skeleton!
+[2019.12.13-14.30.49:619][754]LogSlate: Window 'Message' being destroyed
+[2019.12.13-14.31.06:577][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-14.31.06:578][  0]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.31.06:579][  0]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1.M4A1_weapon002)
+[2019.12.13-14.31.06:579][  0]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-14.31.21:029][166]LogSlate: Window 'Message' being destroyed
+[2019.12.13-14.31.21:037][166]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.31.21:037][166]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-14.31.35:682][216]LogSlate: Window 'Message' being destroyed
+[2019.12.13-14.31.35:695][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.12.13-14.31.35:695][216]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-14.34.36:818][231]LogUObjectHash: Compacting FUObjectHashTables data took  19.11ms
+[2019.12.13-14.34.38:454][231]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/ThirdPersonExampleMap_Auto1E6B6734C4195D003EC233BBC0E26FB6B.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.12.13-14.34.38:474][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.970
+[2019.12.13-14.34.38:474][231]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.970
+[2019.12.13-14.34.38:501][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Up_nArms] ([1] browsable assets)...
+[2019.12.13-14.34.38:502][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Up_nArms]
+[2019.12.13-14.34.38:502][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Up_nArms" FILE="../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Autosaves/Game/Audio/Up_nArms_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.12.13-14.34.38:525][231]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Up_nArms_Auto1A761856446599CF0C14F509B1E40B73D.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Autosaves/Game/Audio/Up_nArms_Auto1.uasset'
+[2019.12.13-14.34.38:529][231]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.12.13-14.42.14:321][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Up_nArms" FILE="../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/Audio/Up_nArms.uasset" SILENT=true
+[2019.12.13-14.42.14:354][411]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Up_nArms73D40B504CD26A9AD4DB92914AF063BE.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/Audio/Up_nArms.uasset'
+[2019.12.13-15.05.58:607][118]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.13-15.34.12:541][ 21]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.13-15.44.09:776][607]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2019.12.13-16.01.00:160][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-16.01.03:831][213]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.01.03:855][213]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.05.33:129][298]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Widgets/FPSHud.FPSHud
+[2019.12.13-16.06.47:832][133]LogEditorTransaction: Undo Move Node
+[2019.12.13-16.06.49:130][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.06.49:926][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.06.49:941][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.06.56:698][133]LogSlate: Window 'Message' being destroyed
+[2019.12.13-16.06.56:711][133]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.06.56:711][133]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-16.06.56:730][133]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-16.07.05:278][598]Cmd: TRANSACTION REDO
+[2019.12.13-16.07.05:278][598]LogEditorTransaction: Redo Move Node
+[2019.12.13-16.07.05:612][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.07.05:613][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.07.05:613][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.07.08:302][598]LogSlate: Window 'Message' being destroyed
+[2019.12.13-16.07.08:311][598]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.12.13-16.07.08:311][598]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-16.07.08:323][598]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2019.12.13-16.09.44:172][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2019.12.13-16.09.44:172][ 22]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.513
+[2019.12.13-16.09.44:175][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Widgets/FPSHud] ([1] browsable assets)...
+[2019.12.13-16.09.44:175][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Widgets/FPSHud]
+[2019.12.13-16.09.44:322][ 22]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/FPSHud_Auto20E2FCE194AFEBF5F07925CA6DC02ED6F.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Widgets/FPSHud_Auto2.uasset'
+[2019.12.13-16.09.44:324][ 22]LogFileHelpers: Auto-saving content packages took 0.150
+[2019.12.13-16.11.18:469][103]BlueprintLog: New page: Compile FPSHud
+[2019.12.13-16.11.20:226][103]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2019.12.13-16.11.25:274][343]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/FPSHud8432853543C295D6D2E198AB3C0FEE84.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/Widgets/FPSHud.uasset'
+[2019.12.13-16.11.28:412][516]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-16.11.28:458][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.11.28:458][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.11.28:458][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.11.28:458][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.11.28:458][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.11.28:459][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.11.28:693][516]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 13, 2019, 6:11:28 AM)
+[2019.12.13-16.11.28:694][516]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-16.11.30:251][516]LogPlayLevel: PIE: StaticDuplicateObject took: (1.557133s)
+[2019.12.13-16.11.30:253][516]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-16.11.30:271][516]LogPlayLevel: PIE: World Init took: (0.020149s)
+[2019.12.13-16.11.30:272][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (1.577608s)
+[2019.12.13-16.11.30:355][516]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2019.12.13-16.11.30:398][516]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.11.30:465][516]LogInit: FAudioDevice initialized.
+[2019.12.13-16.11.30:533][516]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-16.11.30:538][516]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.13-11.11.30
+[2019.12.13-16.11.30:582][516]LogWorld: Bringing up level for play took: 0.047525
+[2019.12.13-16.11.30:582][516]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.13-16.11.32:935][516]LogStreaming: Display: Flushing async loaders.
+[2019.12.13-16.11.34:397][516]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2019.12.13-16.11.34:398][516]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 5.178
+[2019.12.13-16.11.34:398][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.11.34:398][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.11.34:398][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.11.34:398][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.11.34:398][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.11.39:383][911]LogSlate: Took 0.026392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.13-16.11.40:934][911]LogSlate: Window 'Save Asset As' being destroyed
+[2019.12.13-16.11.43:969][137]LogBlueprintUserMessages: [M4A1PickUp_2] M4A1 Picked Up
+[2019.12.13-16.11.48:227][487]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1
+	Weapon_base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base_C:Reload:024C
+[2019.12.13-16.11.48:228][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.12.13-16.11.57:394][245]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-16.11.57:717][272]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-16.12.27:753][759]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-16.12.28:163][792]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-16.12.50:715][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.12.50:715][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.12.50:715][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.12.50:716][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.12.50:716][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.12.50:716][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.12.50:716][627]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-16.12.50:718][627]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.12.50:773][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.12.50:774][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.12.50:774][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.12.50:774][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.12.50:774][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.12.50:774][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.12.50:842][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.12.50:952][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.13-16.12.50:962][627]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-16.12.51:001][628]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.13-16.12.51:053][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.13-16.12.52:551][710]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.12.52:723][710]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.12.55:126][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-16.12.55:423][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.12.13-16.12.56:051][882]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/ThirdPersonExampleMapAF3565BB4C54819F1114E6AEF655CACC.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.13-16.12.56:548][882]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/ThirdPersonExampleMap_BuiltDataAA006BCE40C6D3D70DBE678119FE1E97.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.12.13-16.15.24:052][502]BlueprintLog: New page: Compile FPSHud
+[2019.12.13-16.15.24:147][502]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2019.12.13-16.15.37:090][141]BlueprintLog: New page: Compile FPSHud
+[2019.12.13-16.15.37:177][141]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2019.12.13-16.15.38:193][177]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/FPSHudEEC86C1349464543F3996892019DE85A.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/Widgets/FPSHud.uasset'
+[2019.12.13-16.24.55:819][856]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2019.12.13-16.24.56:088][856]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/ThirdPersonExampleMap_Auto31BA7625E4F064850530E18A40FCFF5B4.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2019.12.13-16.24.56:094][856]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.350
+[2019.12.13-16.24.56:094][856]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2019.12.13-16.24.56:096][856]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.13-16.24.56:110][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.13-16.24.56:111][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.13-16.24.56:241][856]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/ThirdPersonCharacter_Auto3ABD023B94643C64BBA2FE79C67C56C91.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2019.12.13-16.24.56:243][856]LogFileHelpers: Auto-saving content packages took 0.147
+[2019.12.13-16.30.17:542][148]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/ThirdPersonCharacterA40A58F84FA5EED4B6BEA898CFE12A18.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.12.13-16.34.57:555][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.12.13-16.34.57:555][113]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.059
+[2019.12.13-16.34.57:558][113]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.12.13-16.34.57:570][113]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.12.13-16.34.57:570][113]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.12.13-16.34.57:699][113]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/ThirdPersonCharacter_Auto40D17B47149609898020403B7976B43C4.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2019.12.13-16.34.57:700][113]LogFileHelpers: Auto-saving content packages took 0.142
+[2019.12.13-16.41.27:362][659]BlueprintLog: New page: Compile Weapon_M4A1
+[2019.12.13-16.41.27:431][659]LogBlueprint: Error: [Compiler Weapon_M4A1] The type of  Object  is undetermined.  Connect something to  Cast To ThirdPersonCharacter  to imply a specific type.
+[2019.12.13-16.41.27:431][659]LogBlueprint: Error: [Compiler Weapon_M4A1] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2019.12.13-16.41.27:794][659]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2019.12.13-16.41.39:597][198]BlueprintLog: New page: Compile Weapon_M4A1
+[2019.12.13-16.41.39:857][198]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2019.12.13-16.41.43:447][353]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Weapon_M4A15FF77AC8485A329860B31E91F569877E.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.uasset'
+[2019.12.13-16.41.48:922][699]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-16.41.48:973][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.41.48:973][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.41.48:973][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.41.48:973][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.41.48:973][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.41.48:974][699]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.13-16.41.50:339][699]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.12.13-16.41.50:725][699]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2019.12.13-16.41.50:726][699]LogPlayLevel: PlayLevel: Blueprint regeneration took 1752 ms (1 blueprints)
+[2019.12.13-16.41.50:726][699]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 13, 2019, 6:41:50 AM)
+[2019.12.13-16.41.50:726][699]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-16.41.50:757][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031133s)
+[2019.12.13-16.41.50:758][699]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-16.41.50:758][699]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2019.12.13-16.41.50:758][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.032427s)
+[2019.12.13-16.41.50:813][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.13-16.41.50:819][699]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.41.50:850][699]LogInit: FAudioDevice initialized.
+[2019.12.13-16.41.50:855][699]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-16.41.50:858][699]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.13-11.41.50
+[2019.12.13-16.41.50:858][699]LogWorld: Bringing up level for play took: 0.002188
+[2019.12.13-16.41.50:859][699]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.13-16.41.51:417][699]LogStreaming: Display: Flushing async loaders.
+[2019.12.13-16.41.51:511][699]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2019.12.13-16.41.51:511][699]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.292
+[2019.12.13-16.41.51:512][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.41.51:512][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.41.51:512][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.41.51:512][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.41.51:512][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.41.53:737][860]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1
+	Weapon_base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_base.Weapon_base_C:Reload:024C
+[2019.12.13-16.41.53:737][860]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_base Function:  Reload Graph:  Reload Node:  Return Node
+[2019.12.13-16.41.58:438][230]LogBlueprintUserMessages: [M4A1PickUp_2] M4A1 Picked Up
+[2019.12.13-16.42.12:316][338]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-16.42.12:721][370]LogBlueprintUserMessages: [Savage_2] player visible
+[2019.12.13-16.42.19:408][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.42.19:408][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.42.19:408][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.42.19:408][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.42.19:408][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.42.19:409][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.42.19:409][908]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-16.42.19:411][908]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.42.19:437][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.42.19:437][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.42.19:437][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.42.19:437][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.42.19:438][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.42.19:438][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.42.19:499][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.42.19:515][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.12.13-16.42.19:524][908]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-16.42.19:556][909]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.13-16.42.19:619][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.12.13-16.42.21:649][ 21]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.42.21:671][ 21]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.42.25:152][204]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-16.45.30:917][138]BlueprintLog: New page: Compile Weapon_M4A1
+[2019.12.13-16.45.31:231][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2019.12.13-16.45.32:209][175]LogSavePackage: Moving '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Saved/Weapon_M4A1B73610F9454E832B8FBC24A72517D586.tmp' to '../../../../../../Users/Kapisce/Documents/GitHub/UIA1/UIA1/Content/ThirdPersonBP/Blueprints/Weapons/M4A1/Weapon_M4A1.uasset'
+[2019.12.13-16.45.33:889][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-16.45.35:186][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-16.45.35:669][384]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.13-16.45.35:722][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.45.35:722][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.45.35:722][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.45.35:722][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.45.35:722][384]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.45.35:722][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.13-16.45.35:722][384]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 13, 2019, 6:45:35 AM)
+[2019.12.13-16.45.35:723][384]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-16.45.35:759][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035974s)
+[2019.12.13-16.45.35:760][384]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.13-16.45.35:760][384]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2019.12.13-16.45.35:760][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037630s)
+[2019.12.13-16.45.35:842][384]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2019.12.13-16.45.35:846][384]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.13-16.45.35:870][384]LogInit: FAudioDevice initialized.
+[2019.12.13-16.45.35:876][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.13-16.45.35:879][384]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.13-11.45.35
+[2019.12.13-16.45.35:880][384]LogWorld: Bringing up level for play took: 0.002208
+[2019.12.13-16.45.35:880][384]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.13-16.45.36:417][384]LogStreaming: Display: Flushing async loaders.
+[2019.12.13-16.45.36:497][384]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2019.12.13-16.45.36:498][384]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.278
+[2019.12.13-16.45.36:498][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.45.36:498][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.45.36:498][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.45.36:498][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.45.36:498][384]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.45.40:502][698]LogBlueprintUserMessages: [M4A1PickUp_2] M4A1 Picked Up
+[2019.12.13-16.45.44:958][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.45.44:958][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.45.44:958][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.45.44:958][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.45.44:958][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.45.44:959][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.45.44:959][ 51]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.13-16.45.44:962][ 51]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.13-16.45.44:992][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.13-16.45.44:992][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.13-16.45.44:992][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y1.Cabo_africa_x1_y1:PersistentLevel.Cabo_africa_x1_y1'
+[2019.12.13-16.45.44:992][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y0.Cabo_africa_x0_y0:PersistentLevel.Cabo_africa_x0_y0'
+[2019.12.13-16.45.44:992][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x0_y1.Cabo_africa_x0_y1:PersistentLevel.Cabo_africa_x0_y1'
+[2019.12.13-16.45.44:992][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0' with GeneratedClass '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Cabo_africa/Cabo_africa_x1_y0.Cabo_africa_x1_y0:PersistentLevel.Cabo_africa_x1_y0'
+[2019.12.13-16.45.45:062][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.13-16.45.45:082][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.12.13-16.45.45:093][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-16.45.45:172][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.13-16.45.45:232][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.13-16.45.47:267][167]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.45.47:288][167]LogSlate: Window 'Message Log' being destroyed
+[2019.12.13-16.45.51:257][378]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.13-16.48.24:205][233]LogUObjectBase: Warning: Object is not registered
+[2019.12.13-16.48.24:326][233]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.13-16.48.27:701][233]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.374 s
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: 
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: Stack: 
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcdea241e9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcde247d9a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcde255fff UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcf9946c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcf33d4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcf338e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcfde2d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcfe01c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcfde7922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcfde55738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffcfde49a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2c4c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2b26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2c7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2aedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd2e7f63ed USER32.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd2e7f5de2 USER32.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd0b2c88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ff7055c6980 UE4Editor.exe!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ff7055da91c UE4Editor.exe!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ff7055da9fa UE4Editor.exe!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ff7055eb92c UE4Editor.exe!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ff7055ee60e UE4Editor.exe!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd2cdc7bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: [Callstack] 0x00007ffd2ea2ced1 ntdll.dll!UnknownFunction []
+[2019.12.13-16.48.27:701][233]LogOutputDevice: Error: 
+[2019.12.13-16.48.27:711][233]LogStats:                SubmitErrorReport -  0.000 s

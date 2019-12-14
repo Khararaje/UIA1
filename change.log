@@ -101,7 +101,7 @@ Patch 1.08
 		-Break :)
 	/\-all last push (switch to git lsf)
 	
-	Patch 1.09
+	Patch v 1.09
 	- Recontructed safe house
 	- added string variable to character
 	- displayed objective text to hud
@@ -127,28 +127,53 @@ Patch 1.08
 	- adjusted position and rotation
 	- Added Top-Down Mini map to hud
 	- Added hit marker
+	- Added assets ' MLRS_Rocket', 'T-90', 'missile', 'buildings', ''
+	- set up weapon switching
+	- M4A1 Pick Up
+	- m4a1 muzzle flash 
+	- weapon visibility switch
 	
+	Patch v 1.10
+	- Added UpinArms audio
+	- set up displaying secondary ammo
+	- set up secondary ammo consumption system
+	- fix line trace verticle movement stick (bug)
+	- adding line trace from ADS camera 
+	- set up ai linetrace damage 
+	- Broke MiniMap :(
+	- Added ragdoll effect to savage death animation
+	- Added impact effect to line trace hit
+	- AI wander revanp
+	- AI hit animation added
+	- AI idle animation added
+	- AI attack Collision set
+	- AI animations blended
+	
+	! Weapon Base ragdoll replacement code #45
+	* Terrain #53 *safe House
 	* cutscene (* cenematic audio) * GDD
 	* get terrain to load automatically
-	* Terrain #53 *safe House
-	* Missles
+	
 	* Ai Ragdoll physics #48
 	* muzzle flash particle system
 	* Make ai that hit meele # 49
 	* Day Night
+	* pedestrian
 	* Make ai that shoots
 	* crouching
 	* weapon switching
 	* Add M4A1 #36
 		** if time try to add 3rd weapon no tutorial
 		** Weapon Pickup #37
-
+	*when ammo empty change color to red
 	
 	Ideas:
 	have missle site in game
 	have text appear like army movies
 	actually record audio
 	for cutscene
+	
+	
 	
 	STORYLINE PSEUDO:
 	-Premase:
@@ -157,10 +182,24 @@ Patch 1.08
 			election, they sold the U.S information to china, including the militaries soilder list and strategic plans,
 			to support them in their battles against the United states.
 			- My platoons goals are to intercept the nuclear missle testing plans and to stop the initial test launch before the missile
-			is released from the "missle holding compartment" and reaches its destination for this will only result in assurance to china
-			that they can further be a threat to the U.S and the world.
+			is released from the "missle silo
 			- durning the mission things went wrong, they found out we were behind their army's line
 			and the missle test was started me and the platoon managed to break thru china's defences
+			and stop the missle from acheiving lauch status, however the missle was left suspended above its hangar in the ground
+			Rob and Cole stayed behind to disarm the missle while me and Kozy left to defend them against incoming chinamen
+			while defending our position Kozy was shot in the stomach and we had to evacuate. I radio'ed the situation in to 
+			and the missle exlpoded on the ground
+			
+			My Name is Kinico Jinx, im a member of platoon 118 Northen providence of the UNited stats Swat Team, Former swat member... Now im Special ops for the US govenment.
+			my platoon was lucky enough to be seleceted by the govenment officials to deal with some overseas pests. North Korea, stronger than ever had the power and the information to
+			end the US because of russia. Kovorskee Chovlenof, USAA official sold us military strategies to North korea to aid them in defeating the use and becoming one step closer to turning the4
+			world into a communist planet. After the devastating news government officials knew china could map out any next step the us could plan.. so the scrapped everything and Deployed a sectret
+			algorithm thats been in the us arsenal exacly for the occaision and the process led to me and my buddies getting fucked! it was all a terrble idea, i tried to tell them plans were under 
+			developed. 
+			- My platoons goals are to intercept the nuclear missle testing plans and to stop the initial test launch before the missile
+			is released from the "missle silo Me and my guys could have  executed the plan perfectly and still failed. But me and my platoon had a special saying about protecting the innocent, Up in arms to stop all harm.
+			We infiltrated north koreas perimeter and intercepted the missile before it could launch, they found out we were behind their army's line
+			and the missle test was started from a remote location me and the platoon managed to break thru china's defences
 			and stop the missle from acheiving lauch status, however the missle was left suspended above its hangar in the ground
 			Rob and Cole stayed behind to disarm the missle while me and Kozy left to defend them against incoming chinamen
 			while defending our position Kozy was shot in the stomach and we had to evacuate. I radio'ed the situation in to 
