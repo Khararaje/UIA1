@@ -148,13 +148,19 @@ Patch 1.08
 	- AI idle animation added
 	- AI attack Collision set
 	- AI animations blended
+	- AI Ragdoll physics
+	- 
 	
+	* "..." AMMO PICKED UP widget
+	* extend lintrace reange
+	* AI hit react
+	* dead trees
 	! Weapon Base ragdoll replacement code #45
 	* Terrain #53 *safe House
 	* cutscene (* cenematic audio) * GDD
 	* get terrain to load automatically
 	
-	* Ai Ragdoll physics #48
+	*  #48
 	* muzzle flash particle system
 	* Make ai that hit meele # 49
 	* Day Night
